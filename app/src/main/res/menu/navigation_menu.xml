@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/jop"
+        android:title="jobs"
+        android:onClick="posts_company"
+        android:icon="@drawable/company"/>
+
+    <item android:id="@+id/company"
+        android:title="company"
+        android:onClick="company"
+        android:icon="@drawable/company"/>
+
+    <item android:id="@+id/worker"
+        android:title="worker"
+        android:onClick="worker_profile"
+        android:icon="@drawable/work2"/>
+
+    <item android:id="@+id/projects"
+        android:title="project"
+        android:onClick="project"
+        android:icon="@drawable/project"/>
+
+    <item android:id="@+id/group"
+        android:title="groups"
+        android:onClick="groups"
+        android:icon="@drawable/group"/>
+
+    <item android:id="@+id/setting"
+        android:title="setting"
+        android:onClick="settings"
+        android:icon="@drawable/ic_settings"/>
+
+    <item android:id="@+id/logout"
+        android:title="logout"
+        android:onClick="log_out"
+        android:icon="@drawable/logout"/>
+
+</menu>

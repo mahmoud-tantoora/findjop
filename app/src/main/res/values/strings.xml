@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavBot</string>
+    <string name="Worker">2</string>
+    <string name="Company">3</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <array name="spnner_value">
+        <item>COMPANY</item>
+         <item>WORKER</item>
+    </array>
+
+
+</resources>

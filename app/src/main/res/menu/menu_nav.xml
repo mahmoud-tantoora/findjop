@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+
+        android:icon="@drawable/ic_home"
+        android:onClick="home"
+        android:iconTint="#fff"
+        android:title="home">
+    </item>
+
+    <item android:title="profile"
+        android:onClick="profile"
+        android:iconTint="#fff"
+        android:icon="@drawable/ic_face"
+       >
+    </item>
+
+    <item android:title="notify"
+        android:onClick="notify"
+        android:iconTint="#fff"
+        android:icon="@drawable/notifications"
+        >
+    </item>
+</menu>
