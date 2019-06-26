@@ -39,6 +39,26 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 
+                <TextView
+                    android:paddingLeft="20dp"
+                    android:id="@+id/detail_item2"
+                    android:textSize="16dp"
+                    android:layout_gravity="left"
+                    android:textAlignment="center"
+                    android:text="this picture is my fivorit picture"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:paddingLeft="20dp"
+                    android:id="@+id/num_worker"
+                    android:textSize="16dp"
+                    android:layout_gravity="left"
+                    android:textAlignment="center"
+                    android:text="num_worker"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
             </LinearLayout>
             <LinearLayout
                 android:orientation="vertical"

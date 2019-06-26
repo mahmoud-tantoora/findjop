@@ -37,19 +37,19 @@ public class MainActivity extends AppCompatActivity {
 
         RecyclerView recyclerView=(RecyclerView)findViewById(R.id.list_recycler);
         Itemdata itemdata[]={
-                new Itemdata("first","this is first picture in my app",R.drawable.a),
-                new Itemdata("scont","this type to show for you that i can make racycler view without use a picture",1000),
-                new Itemdata("first","this is first picture in my app",R.drawable.c),
-                new Itemdata("scont","this type to show for you that i can make racycler view without use a picture",1000),
-                new Itemdata("first","this is first picture in my app",R.drawable.a),
-                new Itemdata("scont","this is first picture in my app",R.drawable.b),
-                new Itemdata("first","this is first picture in my app",R.drawable.c),
-                new Itemdata("scont","this is first picture in my app",R.drawable.d),
-                new Itemdata("first","this is first picture in my app",R.drawable.a),
-                new Itemdata("scont","this is first picture in my app",R.drawable.b),
-                new Itemdata("first","this is first picture in my app",R.drawable.c),
-                new Itemdata("scont","this is first picture in my app",R.drawable.d),
-                new Itemdata("thread","this is first picture in my app",R.drawable.s)
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.a),
+                new Itemdata("scont","this type to show for you that i can make racycler view without use a picture","detail2","number worker",1000),
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.c),
+                new Itemdata("scont","this type to show for you that i can make racycler view without use a picture","detail2","number worker",1000),
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.a),
+                new Itemdata("scont","this is first picture in my app","detail2","number worker",R.drawable.b),
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.c),
+                new Itemdata("scont","this is first picture in my app","detail2","number worker",R.drawable.d),
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.a),
+                new Itemdata("scont","this is first picture in my app","detail2","number worker",R.drawable.b),
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.c),
+                new Itemdata("scont","this is first picture in my app","detail2","number worker",R.drawable.d),
+                new Itemdata("thread","this is first picture in my app","detail2","number worker",R.drawable.s)
         };
 
         //new gridLayoutManager(this,2)
@@ -145,19 +145,19 @@ public class MainActivity extends AppCompatActivity {
     {
         RecyclerView recyclerView=(RecyclerView)findViewById(R.id.list_recycler);
         Itemdata itemdata[]={
-                new Itemdata("first","this is first picture in my app",R.drawable.a),
-                new Itemdata("scont","this type to show for you that i can make racycler view without use a picture",1000),
-                new Itemdata("first","this is first picture in my app",R.drawable.c),
-                new Itemdata("scont","this type to show for you that i can make racycler view without use a picture",1000),
-                new Itemdata("first","this is first picture in my app",R.drawable.a),
-                new Itemdata("scont","this is first picture in my app",R.drawable.b),
-                new Itemdata("first","this is first picture in my app",R.drawable.c),
-                new Itemdata("scont","this is first picture in my app",R.drawable.d),
-                new Itemdata("first","this is first picture in my app",R.drawable.a),
-                new Itemdata("scont","this is first picture in my app",R.drawable.b),
-                new Itemdata("first","this is first picture in my app",R.drawable.c),
-                new Itemdata("scont","this is first picture in my app",R.drawable.d),
-                new Itemdata("thread","this is first picture in my app",R.drawable.s)
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.a),
+                new Itemdata("scont","this type to show for you that i can make racycler view without use a picture","detail2","number worker",1000),
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.c),
+                new Itemdata("scont","this type to show for you that i can make racycler view without use a picture","detail2","number worker",1000),
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.a),
+                new Itemdata("scont","this is first picture in my app","detail2","number worker",R.drawable.b),
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.c),
+                new Itemdata("scont","this is first picture in my app","detail2","number worker",R.drawable.d),
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.a),
+                new Itemdata("scont","this is first picture in my app","detail2","number worker",R.drawable.b),
+                new Itemdata("first","this is first picture in my app","detail2","number worker",R.drawable.c),
+                new Itemdata("scont","this is first picture in my app","detail2","number worker",R.drawable.d),
+                new Itemdata("thread","this is first picture in my app","detail2","number worker",R.drawable.s)
         };
 
         //new gridLayoutManager(this,2)
